@@ -1,0 +1,7 @@
+com\personas\EntityOModels\Persona.class
+com\personas\Service\Implementation\PersonaSerivceImpl.class
+com\personas\DaooRepo\PersonaRepository.class
+com\personas\DaooRepo\PersonaRepositoryImpl.class
+com\personas\Controller\PersonaController.class
+com\personas\ApiRestPersonApplication.class
+com\personas\Service\PersonaService.class
